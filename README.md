@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1920" height="720" alt="lol" src="https://github.com/user-attachments/assets/0c020248-cce3-402f-86fd-7176d5a2d388" />
 
 <!--
 **piebotc/piebotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
